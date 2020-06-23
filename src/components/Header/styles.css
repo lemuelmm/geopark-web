@@ -1,0 +1,18 @@
+header#main-header {
+    width: 100%;
+    height: 100%;
+    border-color: #649D88;
+    background: #FFF;
+    font-size: 18px;
+    font-weight: bold;
+    color: #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 2px solid #649D88;
+}
+
+div {
+    width: 100%;
+    float: right;
+}
